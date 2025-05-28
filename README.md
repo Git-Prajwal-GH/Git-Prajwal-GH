@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there! <img src="https://github.com/user-attachments/assets/98bb3fa7-a250-4b35-a096-a50acc3aeadd" width="30px">
 
 <!--
 **Git-Prajwal-GH/Git-Prajwal-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
