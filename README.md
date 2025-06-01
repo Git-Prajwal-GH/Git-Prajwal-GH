@@ -34,14 +34,6 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Git-prajwal-GH&locale=en&mode=daily&theme=default&hide_border=false&border_radius=6&order=3" height="160" alt="streak graph"  />
 </div>
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake-dark.svg" />  
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake.svg" />  
-
-  <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake.svg" />   
-</picture>
--->
 ## <img src="https://github.com/user-attachments/assets/6b20c0ed-6eeb-43e9-95bb-6ada38d33812" width="150px"  height="70" /> Retro Mode
 <br clear="both">
 
@@ -55,4 +47,9 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🐍 A Snake Eating My Contributions
-![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake-dark.svg" />  
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake.svg" />  
+
+  <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake.svg" />   
+</picture>
