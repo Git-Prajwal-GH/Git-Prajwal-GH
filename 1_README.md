@@ -2,15 +2,3 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=AWS+Cloud+DevOps+Engineer;B.Tech+in+Mechatronics+Engineer;Always+learning+new+things"></a>
 </p>
-<br>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&amp;label=Profile%20views&amp;color=0047AB&amp;style=plastic?" alt="7oSkaaa" height="25px," width="160px/"> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href="https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&amp;style=plastic" alt="7oSkaaa" target="_blank" height="25px," width="250px/"> 
-	</a>
-</p>
