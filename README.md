@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Git-Prajwal-GH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake-dark.svg" />  
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake-dark.svg" />  
+  <source media="(prefers-color-scheme: light)" srcset="" />  
 
   <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />   
 </picture>
