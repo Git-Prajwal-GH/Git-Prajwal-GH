@@ -1,4 +1,7 @@
-# Hi there! <img src="https://github.com/user-attachments/assets/98bb3fa7-a250-4b35-a096-a50acc3aeadd" width="30px">
+  <h1 align="center">Hi , I'm Prajwal G H <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=AWS+Cloud+DevOps+Engineer;B.Tech+in+Mechatronics+Engineer;Always+learning+new+things"></a>
+</p>
 
 <!--
 **Git-Prajwal-GH/Git-Prajwal-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +28,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Git-Prajwal-GH&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Git-Prajwal-GH&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Prajwal-GH&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Git-Prajwal-GH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-contribution-grid-snake-dark.svg" />  
