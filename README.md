@@ -1,4 +1,4 @@
-  <h1 align="center">Hi , I'm Prajwal G H <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">Hi , I'm Prajwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=%23C8BE25&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=AWS+Cloud+DevOps+Engineer;B.Tech+in+Mechatronics+Engineer;Always+learning+new+things"></a>
 </p>
@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Certifications:
+[🏅 AWS Cloud Solutions Architect](https://drive.google.com/file/d/1aaMdqlXQ7BUU309nDfRyD1-IYDoECRQT/view?usp=drive_link) [🏅 DevOps Engineer](https://drive.google.com/file/d/1l9ZkW0YB3LgY7XlAx09qoNEN5KOLQT5_/view?usp=drive_link)
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prajwal-g-h-3246461a0) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalhanchinal917@gmail.com) 
 
@@ -47,7 +50,7 @@ Here are some ideas to get you started:
 🧑‍💻 IDEs 💻 Operating Systems 
 -->
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats: 
 
 <br clear="both">
 
@@ -57,14 +60,18 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Git-prajwal-GH&locale=en&mode=daily&theme=default&hide_border=false&border_radius=6&order=3" height="160" alt="streak graph"  />
 </div>
 
+<!---
+## <p align="Right"> ![visit](https://github.com/user-attachments/assets/33682015-67e6-43d7-867e-d8b395330bc2)
+</p>
+--->
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Git-Prajwal-GH&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Git-Prajwal-GH&icon=0&color=0)](https://visitcount.itsvg.in)
      
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## ✍️ Dev Quote <p align="Center"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) ![visit](https://github.com/user-attachments/assets/33682015-67e6-43d7-867e-d8b395330bc2) </p>
 
 ## 🐍 A Snake Eating My Contributions
 
