@@ -29,17 +29,12 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Git-Prajwal-GH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Git-Prajwal-GH&icon=6&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake-dark.svg" />  
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />  
 
   <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />   
 </picture>
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
