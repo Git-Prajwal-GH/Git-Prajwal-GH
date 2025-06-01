@@ -54,4 +54,5 @@ Here are some ideas to get you started:
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-
+## 🐍 A Snake Eating My Contributions
+![Snake Game](https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg)
