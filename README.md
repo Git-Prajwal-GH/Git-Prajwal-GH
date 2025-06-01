@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prajwal-g-h-3246461a0) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalhanchinal917@gmail.com) 
 
-## 🧑‍💻 Tech Stack:
+## ⚙️ Software & Tools:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD)
 
+<!--
+🧑‍💻 IDEs 💻 Operating Systems 
+-->
+
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats:
 
 <br clear="both">
@@ -53,7 +57,26 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Git-prajwal-GH&locale=en&mode=daily&theme=default&hide_border=false&border_radius=6&order=3" height="160" alt="streak graph"  />
 </div>
 
-<!--    >>>>>>>   NOT IN USE    <<<<<<
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Git-Prajwal-GH&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Git-Prajwal-GH&icon=0&color=0)](https://visitcount.itsvg.in)
+     
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+## 🐍 A Snake Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
+</picture>
+ 
+ <!--- 
+ ==============xxxxxxxxxxxx==============xxxxxxxxxxxxx==============xxxxxxxxxxxxx================xxxxxxxxxxx================xxxxxxxxxx=================
+ NOT IN USE    <<<<<<
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -75,7 +98,7 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Git-prajwal-GH/Git-prajwal-GH/output/pacman-contribution-graph.svg">
 </picture>
        >>>>>>>   NOT IN USE    <<<<<<  -->
-
+<!--   >>>>>>>   NOT IN USE    <<<<<<
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 <div>
@@ -100,14 +123,4 @@ Here are some ideas to get you started:
 </details>
 
 </br></br>
-
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-## 🐍 A Snake Eating My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
-</picture>
+-->
