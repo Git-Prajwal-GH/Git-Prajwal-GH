@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Certifications:
+## 📜 Certifications:
 [🏅 AWS Cloud Solutions Architect](https://drive.google.com/file/d/1aaMdqlXQ7BUU309nDfRyD1-IYDoECRQT/view?usp=drive_link) [🏅 DevOps Engineer](https://drive.google.com/file/d/1l9ZkW0YB3LgY7XlAx09qoNEN5KOLQT5_/view?usp=drive_link)
 
 ## 🌐 Socials:
