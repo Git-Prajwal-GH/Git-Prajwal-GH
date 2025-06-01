@@ -50,3 +50,8 @@ Here are some ideas to get you started:
 
 ## 🐍 A Snake Eating My Contributions
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="" />
+  <source media="(prefers-color-scheme: light)" srcset="" />
+  <img alt="github-snake" src="" />
+</picture>
