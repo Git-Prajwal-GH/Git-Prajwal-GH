@@ -64,24 +64,7 @@ Here are some ideas to get you started:
 ## <p align="Right"> ![visit](https://github.com/user-attachments/assets/33682015-67e6-43d7-867e-d8b395330bc2)
 </p>
 --->
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Git-Prajwal-GH&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Git-Prajwal-GH&icon=0&color=0)](https://visitcount.itsvg.in)
-     
-## ✍️ Dev Quote <p align="Center"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) ![visit](https://github.com/user-attachments/assets/33682015-67e6-43d7-867e-d8b395330bc2) </p>
-
-## 🐍 A Snake Eating My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
-</picture>
- 
- <!--- 
+<!--- 
  ==============xxxxxxxxxxxx==============xxxxxxxxxxxxx==============xxxxxxxxxxxxx================xxxxxxxxxxx================xxxxxxxxxx=================
  NOT IN USE    <<<<<<
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
@@ -131,3 +114,20 @@ Here are some ideas to get you started:
 
 </br></br>
 -->
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Git-Prajwal-GH&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Git-Prajwal-GH&icon=0&color=0)](https://visitcount.itsvg.in)
+     
+## ✍️ Dev Quote <p align="Center"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) ![visit](https://github.com/user-attachments/assets/33682015-67e6-43d7-867e-d8b395330bc2) </p>
+
+## 🐍 A Snake Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Git-Prajwal-GH/Git-Prajwal-GH/blob/output/github-snake.svg" />
+</picture>
+ 
